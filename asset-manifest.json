@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mar_test/static/css/main.34de6062.chunk.css",
-    "main.js": "/mar_test/static/js/main.b11b16e4.chunk.js",
-    "main.js.map": "/mar_test/static/js/main.b11b16e4.chunk.js.map",
+    "main.js": "/mar_test/static/js/main.684d502d.chunk.js",
+    "main.js.map": "/mar_test/static/js/main.684d502d.chunk.js.map",
     "runtime~main.js": "/mar_test/static/js/runtime~main.15e7985c.js",
     "runtime~main.js.map": "/mar_test/static/js/runtime~main.15e7985c.js.map",
-    "static/js/2.3064a71b.chunk.js": "/mar_test/static/js/2.3064a71b.chunk.js",
-    "static/js/2.3064a71b.chunk.js.map": "/mar_test/static/js/2.3064a71b.chunk.js.map",
+    "static/js/2.3ed4cb1f.chunk.js": "/mar_test/static/js/2.3ed4cb1f.chunk.js",
+    "static/js/2.3ed4cb1f.chunk.js.map": "/mar_test/static/js/2.3ed4cb1f.chunk.js.map",
     "index.html": "/mar_test/index.html",
-    "precache-manifest.ee74c9b9cfe4f17aab3cb74cc3e556b5.js": "/mar_test/precache-manifest.ee74c9b9cfe4f17aab3cb74cc3e556b5.js",
+    "precache-manifest.cbe8d67b8d44bc6dcd840976033c53ca.js": "/mar_test/precache-manifest.cbe8d67b8d44bc6dcd840976033c53ca.js",
     "service-worker.js": "/mar_test/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/mar_test/static/css/main.34de6062.chunk.css.map"
   }
